@@ -8,7 +8,7 @@ To write a C Program to find area of rectangle using pointer.
 
 1. Start the program.
 2. Read two numbers.
-3. Calculate the area of rectangle using the formula area=(x)(\*y)
+3. Calculate the area of rectangle using the formula area = (x)(\*y)
 4. Display the result.
 5. Stop the program.
 
